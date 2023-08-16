@@ -1,13 +1,12 @@
 ### Hi Dev's,👋 eu sou Marcos Henrique
 
-
-
 - 🔭 I’m currently working on with java web project;
 - 🌱 I’m currently learning fluter and Dart;
 - 💬 Ask me about Java mobile and logic;
 - 😄 Pronouns: Ele/Dele
 
 ##
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonforce725&layout=donut)](https://github.com/dragonforce725/github-readme-stats)
 
 <div style="display: inline_block"><br>
@@ -17,4 +16,13 @@
   <img align="center" alt="Marcos-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Marcos-java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Marcos-Android" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
+</div>
+
+##
+
+<div>
+  <a href="https://instagram.com/henrique_marcos725" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/destroyer725#6881" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:marcoshenriquenunes6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marcos-henrique-souza-2448451a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
