@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on with Java web project;
 - 🌱 I’m currently learning flutter and Dart;
 - 💬 Ask me about Java mobile and logic;
-- 😄 Pronouns: Ele/Dele
 
 ##
 
